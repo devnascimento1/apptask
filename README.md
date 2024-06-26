@@ -16,12 +16,7 @@ Toque no botão "+" para adicionar uma nova task.
 Digite o nome da task e toque em "Salvar".
 Marcar uma Task como Concluída
 
-Deslize para a direita na task que deseja marcar como concluída.
-Editar ou Excluir uma Task
-
-Pressione e segure na task para abrir o menu de opções.
-Escolha entre editar ou excluir a task.
-
+Deslize para a direita na task que deseja Editar , ou pra esquerda para Exclusão.
 
 Tecnologias Utilizadas:
 Flutter;
